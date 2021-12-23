@@ -26,7 +26,7 @@ InputFile           :$(Your Path)/$(Sequence Name)_
 
 Encoding experiment example:
 
-TAppEncoder.exe -c encoder_lowdelay_P_main_official.cfg -c 1280_704_vidyo1.cfg
+TAppEncoder.exe -c encoder_lowdelay_P_main_official.cfg -c 384_192_BasketballPass.cfg
 
 
 Decoding experiment example:
