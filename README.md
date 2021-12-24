@@ -34,4 +34,4 @@ TAppEncoder.exe -c encoder_main.cfg -c 384_192_BasketballPass.cfg
 TAppDecoder.exe -b str.bin -o output.yuv
 
 # Subjective experimental results
-.<img src="https://github.com/simaniu/Peceptual-Quality-Control/Subjective experimental results/Television_interview/map.jpg" width="352" height="640" />
+.<img src="https://github.com/simaniu/Peceptual-Quality-Control/tree/main/subjective_result/Television_interview/map.png" width="352" height="640" />
