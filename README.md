@@ -24,11 +24,11 @@ InputFile           :$(Your Path)/$(Sequence Name)_
 
 
 
-## Encoding experiment example
+## Example of encoding experiment
 
 TAppEncoder.exe -c encoder_main.cfg -c 384_192_BasketballPass.cfg
 
 
-## Decoding experiment example
+## Example of decoding experiment
 
 TAppDecoder.exe -b str.bin -o output.yuv
