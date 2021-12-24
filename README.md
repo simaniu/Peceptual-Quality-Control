@@ -31,4 +31,4 @@ TAppEncoder.exe -c encoder_main.cfg -c 384_192_BasketballPass.cfg
 
 Decoding experiment example:
 
-TAppDecoder.exe -b str.bin -o nothing_have_done.yuv
+TAppDecoder.exe -b str.bin -o output.yuv
