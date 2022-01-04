@@ -1,0 +1,3 @@
+PSNR_whole = 4.104629e+01
+PSNR_no-salient = 4.105870e+01
+PSNR_salient = 3.999726e+01
